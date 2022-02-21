@@ -37,4 +37,22 @@ body {
   font-size: 18px;
   font-family: 'Roboto', sans-serif;
   color: #f8f8ff !important;
+  text-align: center;
+}
+
+.date {
+  margin-top: 0;
+}
+
+.small {
+  font-size: 12px;
+}
+
+.margin {
+  margin: 80px;
+}
+
+a {
+  color: lightblue;
+  text-decoration: none;
 }
